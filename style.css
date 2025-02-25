@@ -516,9 +516,10 @@
         width: 100%;
     }
 
-    .audio-block img {
+    /*.audio-block img {
         display: none;
     }
+    
 
     .audio-container {
         padding: 0 42px 0 0;
@@ -527,6 +528,9 @@
     .control i {
         height: 48px;
     }
+    
+    */
+
 
     /* Для футера */
 
