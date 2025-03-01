@@ -277,7 +277,7 @@
 }
 
 .img-card-1 {
-    background-image: url(/img/card-1.png);
+    background-image: url(./img/card-1.png);
 }
 
 .btn-time {
@@ -326,15 +326,15 @@
 }
 
 .img-card-2 {
-    background-image: url(/img/card-2.png);
+    background-image: url(./img/card-2.png);
 }
 
 .img-card-3 {
-    background-image: url(/img/card-3.png);
+    background-image: url(./img/card-3.png);
 }
 
 .img-card-4 {
-    background-image: url(/img/card-4.png);
+    background-image: url(./img/card-4.png);
 }
 
 
